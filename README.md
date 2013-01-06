@@ -1,7 +1,7 @@
 # Food hacking
 A collection of recipes with a little science behind them.
 
-Feel free to submit pull requsts or issues against these receipes. The more 
+Feel free to submit pull requsts or issues against these recipes. The more 
 food geekery the better.
 
 # Contributing
