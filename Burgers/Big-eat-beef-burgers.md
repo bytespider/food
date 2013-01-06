@@ -35,7 +35,9 @@ the meat down.
 5. Cooking is best done in a way where the fat can easily run away, such as a
 griddle or under the grill. If you’re using a griddle heat the pan to smoking 
 hot before adding the first burger then turn down to a medium heat.
-6. Whilst cooking try to drain as much of the fat off as you can.
+6. Whilst cooking try to drain as much of the fat off as you can, and avoid all 
+temptation to flatten/squash the burgers with your spatula. It will force the moisture 
+out of your burger and make it dry.
 7. Flip the burger over after 8-10 mins, the outside will have crisp chargril 
 marks.
 8. After the second side is cooked, you’ll want to add any hot toppings then 
