@@ -1,0 +1,28 @@
+# Quick and easy burger sauce
+
+This mega quick, and very tasty (think Big Mac sauce) burger sauce is straight 
+from [BBC Good Food][1] ([original recipe][2]), although I have added a little twist
+based on my love for a bit of spice, and I used slightly different ingredients 
+based on what I had in the cupboard/fridge. If your having a burger night, your
+best of making it before you start preparing the burgers, and keeping it in the 
+fridge until your burgers are cooked.
+
+**Preperation time**: 1hr (5 minutes prep, refrigerate for ~1hr).  
+**Cooking time**: N/A.
+
+# Ingredients (makes enough for ~4 burgers with generous servings, works equally as 
+well with half the ingredients)
+- 4 tablespoons mayonnaise
+- 2 teaspoons _dijon_ mustard 
+- 2 teaspoons tomato ketchup
+- 1 tablespoon finely chopped gherkin
+- 1/2 teaspoon(s) hot pepper sauce (I used Encona Hot Cajun sauce)
+
+# Directions
+1. Combine ingredients in a bowl, and put in the fridge.
+2. Toast buns, and smear both sides with a generous helping of sauce
+3. Profit!
+
+
+[1]: http://www.bbcgoodfood.com/
+[2]: http://www.bbcgoodfood.com/recipes/1885639/special-burger-sauce
