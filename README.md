@@ -1,5 +1,5 @@
 # Food hacking
-A collection of recipes with a little science behind them.
+A collection of recipes, sometimes with a little science behind them.
 
 Feel free to submit pull requsts or issues against these recipes. The more 
 food geekery the better.
